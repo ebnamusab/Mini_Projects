@@ -1,5 +1,5 @@
 #hangman
 h = "hang"
 m = "man"
-
-print(h+m)
+t = (h+m)
+print(t)
